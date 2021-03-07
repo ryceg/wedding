@@ -28,3 +28,5 @@ Thank you so much for being a part of our lives- we cannot wait to celebrate wit
 * /registry/
 * /about/
 {:toc}
+
+[Details]: Details
