@@ -18,6 +18,8 @@ This website will be updated with the pictures from the wedding after the fact.
 Thank you so much for being a part of our lives- we cannot wait to celebrate with you :)
 
 
-[Details]: https://rhysandclaire.me/details/
-[Registry]: https://rhysandclaire.me/registry/
-[About]: https://rhysandclaire.me/about/
+[Details]: details.md
+
+[Registry]: registry.md
+
+[About]: about.md
