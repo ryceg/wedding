@@ -18,6 +18,6 @@ This website will be updated with the pictures from the wedding after the fact.
 Thank you so much for being a part of our lives- we cannot wait to celebrate with you :)
 
 
-[Details]: /Details
-[Registry]: /Registry
-[About]: /About
+[Details]: /details/
+[Registry]: /registry/
+[About]: /about/
