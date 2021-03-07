@@ -9,7 +9,7 @@ hide_last_modified: true
 
 We are getting married. If you're on this site, we probably invited you. For the nitty-gritty, take a look at the [details](./details.md) of our special day.
 
-If you are desperate to get us something other than your company, take a look at the [Registry](./registry.md).
+If you are desperate to get us something other than your company, take a look at the [registry](./registry.md).
 
 If you only know one of us, there's a brief overview of us [here](./about.md).
 
