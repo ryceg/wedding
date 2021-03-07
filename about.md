@@ -19,6 +19,7 @@ The first time I met Claire's family, we accidentally dressed the same way!
 
 ## Engagement
 
-Before Claire graduated in November 2019, we had a frank discussion of whether we were going to take a gap year before pursuing further study, to travel Europe. I suggested we do it "as a honeymoon". In February 2020, I proposed to Claire, and then in March, we decided that it was a jolly good thing that we didn't end up taking that gap year.
-
 ![Engagement pic](/assets/img/engagement.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Before Claire graduated in November 2019, we had a frank discussion of whether we were going to take a gap year before pursuing further study, to travel Europe. I suggested we do it "as a honeymoon". In February 2020, I proposed to Claire, and then in March, we decided that it was a jolly good thing that we didn't end up taking that gap year.
+{:.figcaption}
