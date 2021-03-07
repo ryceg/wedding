@@ -15,6 +15,6 @@ description: >
 
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
+sitemap: true
 ---
 We are to be wed on the 20th November, 2021.
