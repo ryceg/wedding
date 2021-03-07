@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Rhys and Claire 
+layout: welcome
+title: Welcome 
 description: >
   Welcome! Rather than print a long URL on the invitations, we figured we'd put all the need-to-know information here.
 sitemap: false
@@ -15,3 +15,10 @@ If you only know one of us, there's a brief overview of us in the [About].
 This website will be updated with the pictures from the wedding after the fact.
 
 Thank you so much for being a part of our lives- we cannot wait to celebrate with you :)
+
+---
+selected_posts:
+  - details/
+  - registry/
+  - about/
+---
