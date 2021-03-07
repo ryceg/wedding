@@ -15,3 +15,5 @@ We met at the Conservatorium of Music, where I was two years ahead of Claire. Th
 
 The first time I met Claire's family, we accidentally dressed the same way!
 {:.figcaption}
+
+[Registry]
