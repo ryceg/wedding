@@ -6,18 +6,19 @@ description: >
 cover: true
 hide_last_modified: true
 ---
-We are getting married. If you're on this site, we probably invited you. For the nitty-gritty, take a look at the [Details](details.md) of our special day.
+We are getting married. If you're on this site, we probably invited you. For the nitty-gritty, take a look at the [Details](/details.md) of our special day.
 
-If you are desperate to get us something other than your company, take a look at the [Registry](registry.md).
+If you are desperate to get us something other than your company, take a look at the [Registry](/registry.md).
 
-If you only know one of us, there's a brief overview of us in the [About](about.md).
+If you only know one of us, there's a brief overview of us in the [About](/about.md).
 
 This website will be updated with the pictures from the wedding after the fact.
 
 Thank you so much for being a part of our lives- we cannot wait to celebrate with you :)
 
 ---
-selected_posts:
+layout: post
+related_posts:
   - details/
   - registry/
   - about/
