@@ -1,7 +1,7 @@
 ---
 
 # The title of the tag's page.
-title: Gift Registry
+title: Registry
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: registry
@@ -10,10 +10,4 @@ slug: registry
 description: >
   We are very fortunate to have been living together, alone, for several years. As a result, we already own a lot of the typical wedding registry gifts! We live simply, and enjoy wine, experiences, and hand made items. If you want to give us something, but aren't sure what, we have a wedding registry, located below.
 
-# (Optional) You can disable grouping posts by date.
-# no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
 ---

@@ -1,4 +1,5 @@
 ---
+title: about
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
@@ -16,4 +17,4 @@ We met at the Conservatorium of Music, where I was two years ahead of Claire. Th
 The first time I met Claire's family, we accidentally dressed the same way!
 {:.figcaption}
 
-[Registry]
+[Registry](./registry.md)
