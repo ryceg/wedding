@@ -23,20 +23,16 @@ We are to be wed on the 20th November, 2021.
 This is a rough schedule of how the big day will go. 
 
 #### 3-3:30pm
-**Arrival**
 Drinks will be served upon arrival.
-
+{:.note title="Arrival"}
 #### 4:15-4:30pm
-**Ceremony**
 The ceremony will take place in the paddock, weather permitting. We're not big on long speeches, and will keep it short.
-
+{:.note title="Ceremony"}
 #### 4:30-6pm
-**Cocktail Hour**
 Photos, open bar, and general revelry.
-
+{:.note title="Cocktail Hour"}
 #### 6pm
-**Reception**
 Reception starts, on-site- no need to go anywhere!
-
+{:.note title="Reception"}
 #### 8pm-late
 Celebrate with food, dancing, and general merriment!
