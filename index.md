@@ -13,6 +13,6 @@ If you are desperate to get us something other than your company, take a look at
 
 If you only know one of us, there's a brief overview of us [here](./about.md)].
 
-This website will be updated with the pictures from the wedding after the fact.
+This website will be updated with the pictures from the wedding after the event.
 
 Thank you so much for being a part of our lives- we cannot wait to celebrate with you :)
