@@ -1,5 +1,5 @@
 ---
-layout: welcome
+layout: post
 title: Welcome 
 description: >
   Welcome! Rather than print a long URL on the invitations, we figured we'd put all the need-to-know information here.
