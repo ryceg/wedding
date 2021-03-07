@@ -1,17 +1,14 @@
 ---
-# Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: list
 
 # The title of the tag's page.
-title: Example
+title: Gift Registry
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: registry
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  We are very fortunate to have been living together, alone, for several years. As a result, we already own a lot of the typical wedding registry gifts! We live simply, and enjoy wine, experiences, and hand made items. If you want to give us something, but aren't sure what, we have a wedding registry, located below.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
