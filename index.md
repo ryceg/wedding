@@ -3,7 +3,7 @@ layout: welcome
 title: Welcome 
 description: >
   Welcome! Rather than print a long URL on the invitations, we figured we'd put all the need-to-know information here.
-sitemap: false
+cover: true
 hide_last_modified: true
 ---
 We are getting married. If you're on this site, we probably invited you. For the nitty-gritty, take a look at the [Details](details.md) of our special day.
