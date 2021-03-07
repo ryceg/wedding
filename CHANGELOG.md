@@ -460,7 +460,7 @@ So far Hydejack has been a decent Jekyll theme, but with v8 it really starts sta
         path:         hydejack
       values:
         accent_color: rgb(38,139,210)
-        accent_image: /assets/img/hydejack-bg.jpg
+        accent_image: /assets/img/blur.jpg
   ~~~
 
   Comment: The code to find the color for a given page was complicated and slow (potentially iterating all categories/tags to find the right one).
@@ -699,7 +699,7 @@ Nov 2 2017
   Since this feature isn't yet documented outside of the change log, the old name *will not* continue to work.
 * When providing images to `image`, `image.path`, `image.src`, `image.srcset` and `accent_image `,
   it is no longer necessary to prepend the url with the `baseurl` of the site,
-  e.g. values like `accent_image: /assets/img/sidebar-bg.jpg` are now valid.
+  e.g. values like `accent_image: /assets/img/hero.jpg` are now valid.
 * Limited scope of `a` and `img` styles to content areas.
 * Upgraded KaTeX to v0.8.3
 * Upgraded `jekyll-relative-links` to v5.0.1
