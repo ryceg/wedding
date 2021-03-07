@@ -10,3 +10,8 @@ redirect_from:
 ---
 
 We met at the Conservatorium of Music, where I was two years ahead of Claire. There was an instant connection, and in a matter of a month, we were dating. The rest is history.
+
+![Full-width image](/assets/img/young.jpg){:.lead width="800" height="100" loading="lazy"}
+
+The first time I met Claire's family, we accidentally dressed the same way!
+{:.figcaption}
