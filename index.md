@@ -20,7 +20,7 @@ Thank you so much for being a part of our lives- we cannot wait to celebrate wit
 ---
 layout: post
 related_posts:
-  - details/
-  - registry/
-  - about/
+  - /details/
+  - /registry/
+  - /about/
 ---
