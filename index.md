@@ -17,13 +17,6 @@ This website will be updated with the pictures from the wedding after the fact.
 
 Thank you so much for being a part of our lives- we cannot wait to celebrate with you :)
 
-[Details]
-[Details](./details)
-[Details](./details.md)
-[Details](/details)
-[Details](/details/)
-[Details](/details.md)
-
 * /details/
 * /registry/
 * /about/
