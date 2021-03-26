@@ -20,7 +20,7 @@ sitemap: true
 We are to be wed on the 20th November, 2021.
 
 ### Dress Code
-We would recommend cocktail dress, but advise for at least somewhat sturdy footware- the ceremony will be taking place in a paddock, and thus is somewhat uneven terrain.
+We would recommend semi-formal dress, but advise for at least somewhat sturdy footware- the ceremony will be taking place in a paddock with uneven terrain.
 
 ### Schedule
 This is a rough schedule of how the big day will go. 
