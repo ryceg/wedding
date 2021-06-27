@@ -17,12 +17,12 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: true
 ---
-We are to be wed on the 20th November, 2021.
+We are to be wed on the 20th November, 2021. If you lost the details card that was in your invitation, please [get in touch](mailto:rhysg3@gmail.com) with me. 
 
 ### Dress Code
 We would recommend semi-formal dress, but advise for at least somewhat sturdy footware- the ceremony will be taking place in a paddock with uneven terrain.
 
-### Schedule
+<!-- ### Schedule
 This is a rough schedule of how the big day will go. 
 
 #### 3-3:30pm
@@ -38,4 +38,4 @@ Photos, open bar, and general revelry.
 Reception starts, on-site- no need to go anywhere!
 {:.note title="Reception"}
 #### 8pm-late
-Celebrate with food, dancing, and general merriment!
+Celebrate with food, dancing, and general merriment! -->
