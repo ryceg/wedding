@@ -17,7 +17,7 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: true
 ---
-We are to be wed on the 20th November, 2021. If you lost the details card that was in your invitation, please [get in touch](mailto:rhysg3@gmail.com) with Rhys. 
+We are to be wed on the 20th November, 2021. The ceremony starts at 4pm, so please try and arrive at 3:30pm. If you lost the details card that was in your invitation or have any other questions, please [get in touch](mailto:rhysg3@gmail.com) with Rhys. 
 
 ### Dress Code
 The dress code is semi-formal, but we recommend footware suitable for outdoors- the ceremony will be taking place in a paddock with uneven terrain. The reception will be under a marquee on the lawn, and may get cold towards the end of the night.
