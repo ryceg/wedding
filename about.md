@@ -16,6 +16,12 @@ We met at the Conservatorium of Music, where Rhys was two years ahead of Claire.
 The first time Rhys met Claire's family, we accidentally dressed the same way!
 {:.figcaption}
 
+
+![Sog](/assets/img/sog.jpg){:.lead width="800" loading="lazy"}
+
+Caught in a downpour in Melbourne on our first trip away together in December 2017.
+{:.figcaption}
+
 ## Engagement
 
 ![Engagement pic](/assets/img/engagement.jpg){:.lead width="800" height="100" loading="lazy"}
