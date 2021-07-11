@@ -9,16 +9,16 @@ redirect_from:
   - /download/
 ---
 
-We met at the Conservatorium of Music, where I was two years ahead of Claire. There was an instant connection, and in a matter of a month, we were dating. The rest is history.
+We met at the Conservatorium of Music, where Rhys was two years ahead of Claire. There was an instant connection, and in a matter of a month, we were dating. The rest is history.
 
 ![When we matched](/assets/img/matching.jpg){:.lead width="800" height="100" loading="lazy"}
 
-The first time I met Claire's family, we accidentally dressed the same way!
+The first time Rhys met Claire's family, we accidentally dressed the same way!
 {:.figcaption}
 
 ## Engagement
 
 ![Engagement pic](/assets/img/engagement.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Before Claire finished her Bachelor at the end of 2019, we had a frank discussion of whether we were going to take a gap year before pursuing further study, to travel Europe. I suggested we do it "as a honeymoon" instead. In February 2020, I proposed to Claire, and then in March, we decided that it was a jolly good thing that we didn't end up taking that gap year.
+Our engagement happened across three proposals. We had initially planned to have a gap year in Europe in 2020 before Claire's Honours year, but decided not to in late 2019. When it became clear (for obvious reasons) that 2020 was not the year for travel, Rhys suggested that we travel later "as a honeymoon" instead. Claire agreed, and in February 2020, Rhys proposed to Claire (officially) in the kitchen of our home with Claire's great-grandmother's ring. We both designed a new engagement ring together, and then Rhys presented it to Claire on kunanyi.
 {:.figcaption}
