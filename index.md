@@ -1,8 +1,8 @@
 ---
 layout: about
 title: Welcome 
-description: >
-  Rather than print a long URL on the invitations, we figured we'd put all the need-to-know information here.
+# description: >
+#   Rather than print a long URL on the invitations, we figured we'd put all the need-to-know information here.
 # cover: true
 hide_last_modified: true
 ---
