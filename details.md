@@ -20,7 +20,7 @@ sitemap: true
 We are to be wed on the 20th November, 2021. If you lost the details card that was in your invitation, please [get in touch](mailto:rhysg3@gmail.com) with Rhys. 
 
 ### Dress Code
-We would recommend semi-formal dress, but advise for at least somewhat sturdy footware- the ceremony will be taking place in a paddock with uneven terrain. The reception will be outside, and may get cold towards the end of the night.
+The dress code is semi-formal, but we recommend footware suitable for outdoors- the ceremony will be taking place in a paddock with uneven terrain. The reception will be under a marquee on the lawn, and may get cold towards the end of the night.
 
 <!-- ### Schedule
 This is a rough schedule of how the big day will go. 
